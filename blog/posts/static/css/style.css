@@ -11,3 +11,18 @@ body {
 .card {
     box-shadow: 0 16px 48px #E3E7EB;
 }
+
+.content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border: 1px solid #dddddd;
+    border-radius: 3px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    margin: 2px;
+    text-align: center;
+    padding: 0 40px;
+    font-size: 12px;
+}
